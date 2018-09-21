@@ -8,3 +8,15 @@ C:\Users\mathiass\source\repos\MLNETTutorial\MLNETTutorial\obj\Debug\netcoreapp2
 C:\Users\mathiass\source\repos\MLNETTutorial\MLNETTutorial\bin\Debug\netcoreapp2.0\MLNETTutorial.pdb
 C:\Users\mathiass\source\repos\MLNETTutorial\MLNETTutorial\obj\Debug\netcoreapp2.0\MLNETTutorial.dll
 C:\Users\mathiass\source\repos\MLNETTutorial\MLNETTutorial\obj\Debug\netcoreapp2.0\MLNETTutorial.pdb
+C:\Users\mathiass\Source\Repos\MLNETTest\MLNETTutorial\bin\Debug\netcoreapp2.0\iris.data
+C:\Users\mathiass\Source\Repos\MLNETTest\MLNETTutorial\bin\Debug\netcoreapp2.0\MLNETTutorial.deps.json
+C:\Users\mathiass\Source\Repos\MLNETTest\MLNETTutorial\bin\Debug\netcoreapp2.0\MLNETTutorial.runtimeconfig.json
+C:\Users\mathiass\Source\Repos\MLNETTest\MLNETTutorial\bin\Debug\netcoreapp2.0\MLNETTutorial.runtimeconfig.dev.json
+C:\Users\mathiass\Source\Repos\MLNETTest\MLNETTutorial\bin\Debug\netcoreapp2.0\MLNETTutorial.dll
+C:\Users\mathiass\Source\Repos\MLNETTest\MLNETTutorial\bin\Debug\netcoreapp2.0\MLNETTutorial.pdb
+C:\Users\mathiass\Source\Repos\MLNETTest\MLNETTutorial\obj\Debug\netcoreapp2.0\MLNETTutorial.csprojAssemblyReference.cache
+C:\Users\mathiass\Source\Repos\MLNETTest\MLNETTutorial\obj\Debug\netcoreapp2.0\MLNETTutorial.csproj.CoreCompileInputs.cache
+C:\Users\mathiass\Source\Repos\MLNETTest\MLNETTutorial\obj\Debug\netcoreapp2.0\MLNETTutorial.AssemblyInfoInputs.cache
+C:\Users\mathiass\Source\Repos\MLNETTest\MLNETTutorial\obj\Debug\netcoreapp2.0\MLNETTutorial.AssemblyInfo.cs
+C:\Users\mathiass\Source\Repos\MLNETTest\MLNETTutorial\obj\Debug\netcoreapp2.0\MLNETTutorial.dll
+C:\Users\mathiass\Source\Repos\MLNETTest\MLNETTutorial\obj\Debug\netcoreapp2.0\MLNETTutorial.pdb

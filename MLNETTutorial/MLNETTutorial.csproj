@@ -9,4 +9,10 @@
     <PackageReference Include="Microsoft.ML" Version="0.5.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="iris.data">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
