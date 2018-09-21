@@ -1,0 +1,11 @@
+C:\Users\mathiass\source\repos\MLNETTutorial\MLNETTutorial\bin\Debug\netcoreapp2.1\MLNETTutorial.deps.json
+C:\Users\mathiass\source\repos\MLNETTutorial\MLNETTutorial\bin\Debug\netcoreapp2.1\MLNETTutorial.runtimeconfig.json
+C:\Users\mathiass\source\repos\MLNETTutorial\MLNETTutorial\bin\Debug\netcoreapp2.1\MLNETTutorial.runtimeconfig.dev.json
+C:\Users\mathiass\source\repos\MLNETTutorial\MLNETTutorial\bin\Debug\netcoreapp2.1\MLNETTutorial.dll
+C:\Users\mathiass\source\repos\MLNETTutorial\MLNETTutorial\bin\Debug\netcoreapp2.1\MLNETTutorial.pdb
+C:\Users\mathiass\source\repos\MLNETTutorial\MLNETTutorial\obj\Debug\netcoreapp2.1\MLNETTutorial.csprojAssemblyReference.cache
+C:\Users\mathiass\source\repos\MLNETTutorial\MLNETTutorial\obj\Debug\netcoreapp2.1\MLNETTutorial.csproj.CoreCompileInputs.cache
+C:\Users\mathiass\source\repos\MLNETTutorial\MLNETTutorial\obj\Debug\netcoreapp2.1\MLNETTutorial.AssemblyInfoInputs.cache
+C:\Users\mathiass\source\repos\MLNETTutorial\MLNETTutorial\obj\Debug\netcoreapp2.1\MLNETTutorial.AssemblyInfo.cs
+C:\Users\mathiass\source\repos\MLNETTutorial\MLNETTutorial\obj\Debug\netcoreapp2.1\MLNETTutorial.dll
+C:\Users\mathiass\source\repos\MLNETTutorial\MLNETTutorial\obj\Debug\netcoreapp2.1\MLNETTutorial.pdb
