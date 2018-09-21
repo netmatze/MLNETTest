@@ -12,7 +12,7 @@ namespace MLNETTutorial
         public class IrisData
         {
             [Column("0")]
-            public float SepalLength;
+            public float SepalLength; 
 
             [Column("1")]
             public float SepalWidth;
@@ -39,6 +39,8 @@ namespace MLNETTutorial
 
             string dataPath = "iris-data.txt";
             pipeline.Add(new TextLoader(dataPath).CreateFrom<IrisData>(separator: ','));
+
+
 
             Console.WriteLine("Hello World!");
             Console.ReadLine();
