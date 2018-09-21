@@ -1,0 +1,5 @@
+﻿################################################################################
+# Diese .gitignore-Datei wurde von Microsoft(R) Visual Studio automatisch erstellt.
+################################################################################
+
+/.vs/MLNETTutorial/v15/Server/sqlite3
